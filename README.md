@@ -22,4 +22,7 @@ Links to accomplishments completed online.
 * pandas Foundations - [Certificate #7999070](https://www.datacamp.com/statement-of-accomplishment/course/91ae09550b6baa086c4fab77ecaf42b6e1a782fd)
 * Intermediate Python for Data Science - [Certificate #7936672](https://www.datacamp.com/statement-of-accomplishment/course/118ee433bcaf830427de2c2c306a4637a03a8c1e)
 * Introduction to Python - [Certificate #7855798](https://www.datacamp.com/statement-of-accomplishment/course/c99bc3b1911c828ab318a6e5daf65752658bd4ce)
-
+## SQL Courses
+* Introduction to Relational Databases in SQL - [Certificate #8633164](https://www.datacamp.com/statement-of-accomplishment/course/03c70ed626c3fac3eb7bdb01bfce2bada99d940a)
+* Joining Data in SQL - [Certificate #8336923](https://www.datacamp.com/statement-of-accomplishment/course/17d47123f304524709f35c20e39a1cb2a18af536)
+* Intro to SQL for Data Science - [Certificate #8051791](https://www.datacamp.com/statement-of-accomplishment/course/ca7de247b5804e471c2e4db04601fd7704a29e65)
