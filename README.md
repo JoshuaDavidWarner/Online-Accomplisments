@@ -3,7 +3,7 @@ Links to accomplishments completed online.
 ## Tracks
 * Data Analyst with Python  - [Certificate# #69,287]( https://www.datacamp.com/statement-of-accomplishment/track/8404dfce29faaf162545737f51bfdf4bca89c502)
 * Python Programmer  - [Certificate# #66,425]( https://www.datacamp.com/statement-of-accomplishment/track/73cb7f011f3101be44c202148df5f86a09f3abed)
-## Courses
+## Python Courses
 * Extreme Gradient Boosting with XGBoost - [Certificate #8820644](https://www.datacamp.com/statement-of-accomplishment/course/195d136a7422eb19ee33a618e898f0dc8fc7fd46)
 * Supervised Learning with scikit-learn - [Certificate #8413006](https://www.datacamp.com/statement-of-accomplishment/course/66256d9f988b9029602e3c336ca5e5f2041aff45)
 * Machine Learning with the Experts: School Budgets - [Certificate #8507703](https://www.datacamp.com/statement-of-accomplishment/course/2cef8ad0c2a502f53425033d517e1b4ac3c66e74)
