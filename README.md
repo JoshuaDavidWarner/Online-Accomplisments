@@ -30,3 +30,4 @@ Links to accomplishments completed online.
 * Access 2019 Essential Training - [Certificate #4C9D3D3C3F9949A3A1756AED02D26BCD](https://github.com/WepsDrawn/Online-Accomplisments/blob/master/Access2019EssentialTraining_CertificateOfCompletion(1).pdf)
 * Excel 2016 Essential Training - [Certificate #3C12AD7484FF4D8EBD1032A1DB9B3ED8](https://github.com/WepsDrawn/Online-Accomplisments/blob/master/Excel2016EssentialTraining_CertificateOfCompletion.pdf)
 * Tableau Essential Training - [Certificate #156890F78B1246CE96F6F6E184418677](https://github.com/WepsDrawn/Online-Accomplisments/blob/master/TableauEssentialTraining_CertificateOfCompletion.pdf)
+* Google Analytics For Beginners - [Certificate](https://github.com/WepsDrawn/Online-Accomplisments/blob/master/Google_Analytics_Course_Certificate.pdf)
