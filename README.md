@@ -26,7 +26,7 @@ Links to accomplishments completed online.
 * Introduction to Relational Databases in SQL - [Certificate #8633164](https://www.datacamp.com/statement-of-accomplishment/course/03c70ed626c3fac3eb7bdb01bfce2bada99d940a)
 * Joining Data in SQL - [Certificate #8336923](https://www.datacamp.com/statement-of-accomplishment/course/17d47123f304524709f35c20e39a1cb2a18af536)
 * Intro to SQL for Data Science - [Certificate #8051791](https://www.datacamp.com/statement-of-accomplishment/course/ca7de247b5804e471c2e4db04601fd7704a29e65)
-## Lynda Certificates
+## Certificates
 * Access 2019 Essential Training - [Certificate #4C9D3D3C3F9949A3A1756AED02D26BCD](https://github.com/WepsDrawn/Online-Accomplisments/blob/master/Access2019EssentialTraining_CertificateOfCompletion(1).pdf)
 * Excel 2016 Essential Training - [Certificate #3C12AD7484FF4D8EBD1032A1DB9B3ED8](https://github.com/WepsDrawn/Online-Accomplisments/blob/master/Excel2016EssentialTraining_CertificateOfCompletion.pdf)
 * Tableau Essential Training - [Certificate #156890F78B1246CE96F6F6E184418677](https://github.com/WepsDrawn/Online-Accomplisments/blob/master/TableauEssentialTraining_CertificateOfCompletion.pdf)
