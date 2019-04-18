@@ -1,9 +1,10 @@
 # Online-Accomplisments
 Links to accomplishments completed online.
 ## Tracks
-* Data Analyst with Python  - [Certificate# #69,287]( https://www.datacamp.com/statement-of-accomplishment/track/8404dfce29faaf162545737f51bfdf4bca89c502)
-* Python Programmer  - [Certificate# #66,425]( https://www.datacamp.com/statement-of-accomplishment/track/73cb7f011f3101be44c202148df5f86a09f3abed)
+* Data Analyst with Python  - [Certificate #69,287]( https://www.datacamp.com/statement-of-accomplishment/track/8404dfce29faaf162545737f51bfdf4bca89c502)
+* Python Programmer  - [Certificate #66,425]( https://www.datacamp.com/statement-of-accomplishment/track/73cb7f011f3101be44c202148df5f86a09f3abed)
 ## Python Courses
+* Convolutional Neural Networks for Image Processing - [Certificate #9249111](https://www.datacamp.com/statement-of-accomplishment/course/c3548e379a13901ecb7f6db134d2717370a0001d)
 * Deep Learning in Python - [Certificate #8959210](https://www.datacamp.com/statement-of-accomplishment/course/709e917ea1528e7025ca12861e6b70996769f2e5)
 * Unsupervised Learning in Python - [Certificate #8780947](https://www.datacamp.com/statement-of-accomplishment/course/f23dc43e772b47ef4de6e022e2342dc48b823555)
 * Extreme Gradient Boosting with XGBoost - [Certificate #8820644](https://www.datacamp.com/statement-of-accomplishment/course/195d136a7422eb19ee33a618e898f0dc8fc7fd46)
