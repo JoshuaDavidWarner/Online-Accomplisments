@@ -3,6 +3,7 @@ Links to accomplishments completed online.
 ## Tracks
 * Data Analyst with Python  - [Certificate #69,287]( https://www.datacamp.com/statement-of-accomplishment/track/8404dfce29faaf162545737f51bfdf4bca89c502)
 * Python Programmer  - [Certificate #66,425]( https://www.datacamp.com/statement-of-accomplishment/track/73cb7f011f3101be44c202148df5f86a09f3abed)
+* Python Programming  - [Certificate #66,426]( https://www.datacamp.com/statement-of-accomplishment/track/6e6182f901f2bd75e30aaf1b3d1ef86e695d36a4)
 ## Python Courses
 * Convolutional Neural Networks for Image Processing - [Certificate #9249111](https://www.datacamp.com/statement-of-accomplishment/course/c3548e379a13901ecb7f6db134d2717370a0001d)
 * Deep Learning in Python - [Certificate #8959210](https://www.datacamp.com/statement-of-accomplishment/course/709e917ea1528e7025ca12861e6b70996769f2e5)
