@@ -1,6 +1,7 @@
 # Online-Accomplisments
 Links to accomplishments completed online.
 ## Tracks
+* Data Scientist with Python  - [Certificate #81,875]( https://www.datacamp.com/statement-of-accomplishment/track/caff2ad6d29fe82fb439a25c0b8e0517a1ac6767)
 * Data Analyst with Python  - [Certificate #69,287]( https://www.datacamp.com/statement-of-accomplishment/track/8404dfce29faaf162545737f51bfdf4bca89c502)
 * Python Programmer  - [Certificate #66,425]( https://www.datacamp.com/statement-of-accomplishment/track/73cb7f011f3101be44c202148df5f86a09f3abed)
 * Importing & Cleaning Data with Python  - [Certificate #66,427]( https://www.datacamp.com/statement-of-accomplishment/track/a6df44fc18e19fcdef71b381d342bff74456658d)
