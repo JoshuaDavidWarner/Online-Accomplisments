@@ -7,6 +7,7 @@ Links to accomplishments completed online.
 * Importing & Cleaning Data with Python  - [Certificate #66,427]( https://www.datacamp.com/statement-of-accomplishment/track/a6df44fc18e19fcdef71b381d342bff74456658d)
 * Python Programming  - [Certificate #66,426]( https://www.datacamp.com/statement-of-accomplishment/track/6e6182f901f2bd75e30aaf1b3d1ef86e695d36a4)
 ## Python Courses
+* Object-Oriented Programming in Python - [Certificate #19318268](https://www.datacamp.com/statement-of-accomplishment/course/7e66203d9cdf5ec3504c75fa4572d85e88f6cf99)
 * Advanced Deep Learning with Keras in Python - [Certificate #9432945](https://www.datacamp.com/statement-of-accomplishment/course/e58b49ab340a48a2dccc770603e2e72c95d603fd)
 * Network Analysis in Python (Part 1) - [Certificate #9249049](https://www.datacamp.com/statement-of-accomplishment/course/dfa2a34c291426020180f852d7576ac6e6ab7a2e)
 * Convolutional Neural Networks for Image Processing - [Certificate #9249111](https://www.datacamp.com/statement-of-accomplishment/course/c3548e379a13901ecb7f6db134d2717370a0001d)
